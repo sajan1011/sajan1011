@@ -3,9 +3,12 @@
 🎓 BCA Student | 💡I enjoy building small projects to improve my skills
 
 ## 💼 Projects
-- **FinTrack** – Smart Personal Finance Tracker (PHP + MySQLi + Tailwind)
-- **Quote Management System** – Add, view, and manage quotes easily
-  ---
+- 🔹 **[FinTrack](https://github.com/sajan1011/Fintrack)**  
+  Smart Personal Finance Manager built with PHP, MySQLi, and Tailwind CSS. Tracks income, expenses, and savings goals in a simple UI.
+
+- 🔹 **[Quote Management System](https://github.com/sajan1011/Quote-Management)**  
+  Add, view, and manage inspirational quotes with an easy-to-use dashboard.
+
 ## 🚀 Skills
 - PHP (Procedural)
 - MySQLi

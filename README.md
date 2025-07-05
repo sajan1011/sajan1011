@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, I'm Sajan Shrestha
 
-<!--
-**sajan1011/sajan1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💡I enjoy building small projects to improve my skills
 
-Here are some ideas to get you started:
+## 💼 Projects
+- **FinTrack** – Smart Personal Finance Tracker (PHP + MySQLi + Tailwind)
+- **Quote Management System** – Add, view, and manage quotes easily
+  ---
+## 🚀 Skills
+- PHP (Procedural)
+- MySQLi
+- Tailwind CSS
+- Git & GitHub
+- HTML & CSS
+---
+### 🌐 Portfolio Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can check my portfolio project here:  
+[https://github.com/sajan1011/portfolio](https://github.com/sajan1011/portfolio)
+
+---
+
+
+
+## 📫 Contact
+
+Feel free to connect with me:
+
+- Email: shresthasajan053@gmail.com
+
+---
+
+> “Code. Learn. Build. Repeat.”
+
+ Thank you for visiting my profile! 😊
+
+
